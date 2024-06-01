@@ -511,6 +511,24 @@ input::placeholder {
     color: #ffffff;
 }
 
+.bth-subscribe {
+    font-family: "Roboto", sans-serif;
+    min-width: 165px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+    background-color: #4D5AE5;
+    border: none;
+    border-radius: 4px;
+}
+
 .modal-overlay {
     position: fixed;
     top: 0;
