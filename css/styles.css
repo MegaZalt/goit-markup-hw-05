@@ -488,9 +488,14 @@ ul {
     color: #ffffff;
 }
 
-.form {
+.form-content {
     display: flex;
     gap: 24px;
+}
+
+.content-email {
+    width: 264px;
+    height: 40px;
 }
 
 .modal-overlay {
