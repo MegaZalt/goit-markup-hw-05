@@ -583,6 +583,8 @@ input::placeholder {
 .modal-button:focus {
     background-color: #404bbf;
     border: none;
+    fill: #ffffff;
+    
 }
 
 .modal-icon {
