@@ -529,6 +529,10 @@ input::placeholder {
     border-radius: 4px;
 }
 
+.form-content-icon {
+    margin-left: 16px;
+}
+
 .modal-overlay {
     position: fixed;
     top: 0;
