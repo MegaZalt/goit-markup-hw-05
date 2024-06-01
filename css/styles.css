@@ -584,7 +584,6 @@ input::placeholder {
     background-color: #404bbf;
     border: none;
     fill: #ffffff;
-    
 }
 
 .modal-icon {
@@ -599,4 +598,17 @@ input::placeholder {
     letter-spacing: 0.02em;
     color: #2E2F42;
     margin-bottom: 16px;
+}
+
+.name-mod {
+    margin-bottom: 8px;
+}
+
+.title-name-mod {
+    font-size: 12px;
+    line-height: 1.17;
+    letter-spacing: 0.04em;
+    color: #8e8f99;
+    display: block;
+    margin-bottom: 4px;
 }
