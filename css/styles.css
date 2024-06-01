@@ -505,7 +505,10 @@ ul {
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     color: #ffffff;
-    pl
+}
+
+input::placeholder {
+    color: #ffffff;
 }
 
 .modal-overlay {
