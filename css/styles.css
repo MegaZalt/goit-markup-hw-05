@@ -657,3 +657,9 @@ input::placeholder {
 .coment-text:focus {
     border-color: #4D5AE5;
 }
+
+.checkbox-container {
+    margin-bottom: 24px;
+}
+
+.
