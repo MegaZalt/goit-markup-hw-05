@@ -633,6 +633,10 @@ input::placeholder {
     border-color: #4D5AE5;;
 }
 
+.mod-name:focus+.mod-name-icon {
+    fill: #4D5AE5;
+}
+
 .mod-name-icon {
     position: absolute;
     top: 50%;
