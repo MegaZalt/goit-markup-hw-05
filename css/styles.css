@@ -695,7 +695,7 @@ input::placeholder {
     fill: transparent;
 }
 
-.visually-hidden:checked+.mod-span {
+.visually-hidden+.mod-user-text>.mod-span {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
