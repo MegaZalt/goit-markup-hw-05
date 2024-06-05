@@ -695,7 +695,7 @@ input::placeholder {
     fill: transparent;
 }
 
-.input-chek-box+.mod-user-text>.mod-span {
+.input-chek-box:checked+.mod-user-text>.mod-span {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
