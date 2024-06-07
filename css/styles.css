@@ -479,6 +479,10 @@ ul {
     fill: #f4f4fd;
 }
 
+.subscribe-content {
+    margin-left: auto;
+}
+
 .footer-text-subscribe {
     margin-bottom: 16px;
     font-weight: 500;
@@ -531,6 +535,7 @@ input::placeholder {
 
 .form-content-icon {
     margin-left: 16px;
+    fill: #ffffff;
 }
 
 .modal-overlay {
